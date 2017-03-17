@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <animation-list android:id="@+id/selected"
+        android:oneshot="false">
+    <item android:drawable="@drawable/animhorse0" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse1" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse2" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse3" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse4" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse5" android:duration="50"/>
+        <item android:drawable="@drawable/animhorse6" android:duration="50"/>
+        <item android:drawable="@drawable/nimhorse7" android:duration="50"/>
+    </animation-list>
+</selector>
